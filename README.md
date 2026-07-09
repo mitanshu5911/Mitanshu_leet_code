@@ -17,6 +17,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0383-ransom-note) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -38,4 +39,9 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
