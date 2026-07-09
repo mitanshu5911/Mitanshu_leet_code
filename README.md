@@ -46,6 +46,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0387-first-unique-character-in-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Counting
 |  |
 | ------- |
@@ -59,6 +60,7 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
 | ------- |
@@ -67,4 +69,8 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
