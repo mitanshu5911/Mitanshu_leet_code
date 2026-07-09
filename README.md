@@ -30,4 +30,12 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
