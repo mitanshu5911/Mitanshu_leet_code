@@ -10,6 +10,7 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [1667-fix-names-in-a-table](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1667-fix-names-in-a-table) |
+| [1693-daily-leads-and-partners](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1693-daily-leads-and-partners) |
 ## Array
 |  |
 | ------- |
