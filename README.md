@@ -20,10 +20,12 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0303-range-sum-query-immutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0389-find-the-difference) |
@@ -31,6 +33,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -44,6 +47,7 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -71,6 +75,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
