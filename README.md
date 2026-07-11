@@ -19,6 +19,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [1873-calculate-special-bonus](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1965-employees-with-missing-information) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Array
 |  |
 | ------- |
