@@ -95,6 +95,7 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Design
 |  |
@@ -120,4 +121,8 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0292-nim-game) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
