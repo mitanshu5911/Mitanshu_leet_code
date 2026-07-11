@@ -94,6 +94,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Design
 |  |
@@ -111,4 +112,12 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2685-count-the-number-of-complete-components) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
