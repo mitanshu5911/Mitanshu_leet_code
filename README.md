@@ -9,6 +9,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0176-second-highest-salary) |
 | [1667-fix-names-in-a-table](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1729-find-followers-count) |
