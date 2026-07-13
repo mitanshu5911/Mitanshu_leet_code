@@ -131,4 +131,8 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0326-power-of-three) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
