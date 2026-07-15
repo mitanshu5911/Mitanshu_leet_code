@@ -118,6 +118,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0326-power-of-three](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Design
 |  |
 | ------- |
@@ -154,6 +155,7 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
