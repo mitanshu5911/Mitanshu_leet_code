@@ -78,6 +78,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0392-is-subsequence](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1768-merge-strings-alternately](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -91,6 +92,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0409-longest-palindrome](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1768-merge-strings-alternately](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1768-merge-strings-alternately) |
 ## Counting
 |  |
 | ------- |
