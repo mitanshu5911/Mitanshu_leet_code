@@ -43,6 +43,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [1331-rank-transform-of-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0392-is-subsequence](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -110,6 +112,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0389-find-the-difference](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +126,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -160,6 +164,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -168,6 +173,7 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0059-spiral-matrix-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
