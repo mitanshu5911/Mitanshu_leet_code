@@ -41,6 +41,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0414-third-maximum-number](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1331-rank-transform-of-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
