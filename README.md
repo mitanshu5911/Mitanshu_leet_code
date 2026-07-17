@@ -37,6 +37,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0011-container-with-most-water) |
 | [0059-spiral-matrix-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0238-product-of-array-except-self](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -196,6 +198,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0605-can-place-flowers) |
 ## Combinatorics
