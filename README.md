@@ -45,6 +45,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0605-can-place-flowers](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0605-can-place-flowers) |
 | [1331-rank-transform-of-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -58,11 +59,13 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0409-longest-palindrome](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -103,6 +106,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | ------- |
 | [0383-ransom-note](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
 ## Queue
 |  |
 | ------- |
@@ -132,6 +136,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0326-power-of-three](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -143,6 +148,7 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0303-range-sum-query-immutable) |
+| [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -170,6 +176,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -187,4 +194,8 @@ https://leetcode.com/u/mitanshubansal1234/
 | ------- |
 | [0409-longest-palindrome](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0605-can-place-flowers) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
