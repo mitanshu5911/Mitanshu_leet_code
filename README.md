@@ -19,6 +19,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0626-exchange-seats](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1070-product-sales-analysis-iii) |
+| [1158-market-analysis-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1158-market-analysis-i) |
 | [1667-fix-names-in-a-table](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1729-find-followers-count) |
