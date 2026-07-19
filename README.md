@@ -111,6 +111,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0541-reverse-string-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1768-merge-strings-alternately) |
 ## Counting
@@ -209,6 +210,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0011-container-with-most-water](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0605-can-place-flowers) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Combinatorics
 |  |
 | ------- |
@@ -218,4 +220,12 @@ https://leetcode.com/u/mitanshubansal1234/
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
