@@ -60,6 +60,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [1971-find-if-path-exists-in-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +224,7 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0059-spiral-matrix-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
