@@ -89,6 +89,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Graph Theory
 |  |
 | ------- |
+| [1791-find-center-of-star-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
