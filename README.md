@@ -120,6 +120,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1768-merge-strings-alternately) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -163,6 +164,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -228,6 +230,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0409-longest-palindrome](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Combinatorics
 |  |
 | ------- |
