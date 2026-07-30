@@ -83,11 +83,13 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Union-Find
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
@@ -183,10 +185,12 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Depth-First Search
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2685-count-the-number-of-complete-components) |
 ## Brainteaser
 |  |
