@@ -22,6 +22,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [1158-market-analysis-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1174-immediate-food-delivery-ii) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1667-fix-names-in-a-table](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1729-find-followers-count) |
