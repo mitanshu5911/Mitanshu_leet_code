@@ -51,6 +51,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0643-maximum-average-subarray-i) |
+| [0877-stone-game](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -165,6 +166,7 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
@@ -173,6 +175,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0326-power-of-three](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
@@ -208,6 +211,7 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
