@@ -57,6 +57,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [1331-rank-transform-of-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
@@ -176,6 +177,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0392-is-subsequence](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1406-stone-game-iii) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
@@ -202,6 +204,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0303-range-sum-query-immutable) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
 ## Depth-First Search
 |  |
@@ -244,6 +247,7 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0059-spiral-matrix-ii) |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
@@ -289,4 +293,8 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Memoization
+|  |
+| ------- |
+| [1444-number-of-ways-of-cutting-a-pizza](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 <!---LeetCode Topics End-->
