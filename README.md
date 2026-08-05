@@ -214,11 +214,13 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2685-count-the-number-of-complete-components) |
 ## Brainteaser
@@ -302,4 +304,12 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
