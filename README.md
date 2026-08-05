@@ -129,6 +129,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0412-fizz-buzz) |
+| [0516-longest-palindromic-subsequence](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -175,6 +176,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | ------- |
 | [0198-house-robber](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1406-stone-game-iii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
