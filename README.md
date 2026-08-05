@@ -60,6 +60,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -180,6 +181,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0877-stone-game](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1406-stone-game-iii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
@@ -207,6 +209,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0238-product-of-array-except-self](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0303-range-sum-query-immutable) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
 ## Depth-First Search
 |  |
