@@ -1,46 +1,29 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
-        if(root == nullptr) return {};
+        if (!root) return {};
 
-        queue<pair<int,TreeNode*>> q;
-        q.push({0,root});
+        vector<int> ans;
+        queue<TreeNode*> q;
+        q.push(root);
 
-        unordered_map<int,int> mpp;
+        while (!q.empty()) {
+            int sz = q.size();
 
-        while(!q.empty()){
-            auto temp = q.front();
-           int level = temp.first;
-           TreeNode* node = temp.second;
-            q.pop();
+            for (int i = 0; i < sz; i++) {
+                TreeNode* node = q.front();
+                q.pop();
 
-            mpp[level] = node->val;
+                if (i == sz - 1)
+                    ans.push_back(node->val);
 
-            if(node->left){
-                q.push({level+1,node->left});
+                if (node->left)
+                    q.push(node->left);
+                if (node->right)
+                    q.push(node->right);
             }
-            if(node->right){
-                q.push({level+1,node->right});
-            }  
         }
-        int len = mpp.size();
 
-        vector<int> ans(len);
-
-        for(auto it:mpp){
-            ans[it.first] = it.second;
-        }
         return ans;
     }
 };
