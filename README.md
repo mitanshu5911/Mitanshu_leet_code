@@ -64,6 +64,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -278,6 +279,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0412-fizz-buzz) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
