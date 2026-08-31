@@ -344,4 +344,8 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0207-course-schedule) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
