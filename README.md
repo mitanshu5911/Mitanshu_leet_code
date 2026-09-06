@@ -132,6 +132,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0387-first-unique-character-in-a-string) |
@@ -187,6 +188,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0516-longest-palindromic-subsequence) |
