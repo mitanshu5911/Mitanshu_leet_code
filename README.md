@@ -234,6 +234,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0207-course-schedule) |
@@ -245,6 +246,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0210-course-schedule-ii) |
@@ -337,6 +339,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
@@ -344,6 +347,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
