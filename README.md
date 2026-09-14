@@ -84,6 +84,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0389-find-the-difference](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1386-cinema-seat-allocation) |
@@ -178,6 +179,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0350-intersection-of-two-arrays-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0414-third-maximum-number) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -240,6 +242,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0207-course-schedule](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1110-delete-nodes-and-return-forest) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2685-count-the-number-of-complete-components) |
@@ -251,6 +254,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0210-course-schedule-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2685-count-the-number-of-complete-components) |
 ## Brainteaser
@@ -345,6 +349,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0110-balanced-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1110-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
@@ -354,6 +359,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0110-balanced-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1110-delete-nodes-and-return-forest) |
 ## Topological Sort
 |  |
