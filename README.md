@@ -134,6 +134,7 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0115-distinct-subsequences) |
+| [0257-binary-tree-paths](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0387-first-unique-character-in-a-string) |
@@ -242,6 +243,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1110-delete-nodes-and-return-forest) |
@@ -351,6 +353,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1110-delete-nodes-and-return-forest) |
@@ -362,6 +365,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1110-delete-nodes-and-return-forest) |
@@ -382,4 +386,8 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
