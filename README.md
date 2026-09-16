@@ -359,6 +359,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1110-delete-nodes-and-return-forest) |
+| [2236-root-equals-sum-of-children](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
@@ -372,6 +373,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1110-delete-nodes-and-return-forest) |
+| [2236-root-equals-sum-of-children](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2236-root-equals-sum-of-children) |
 ## Topological Sort
 |  |
 | ------- |
