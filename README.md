@@ -90,6 +90,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [1331-rank-transform-of-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -251,6 +252,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1110-delete-nodes-and-return-forest) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1971-find-if-path-exists-in-graph) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -264,6 +266,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1971-find-if-path-exists-in-graph) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2685-count-the-number-of-complete-components) |
 ## Brainteaser
 |  |
@@ -364,6 +367,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1110-delete-nodes-and-return-forest) |
 | [2236-root-equals-sum-of-children](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -379,6 +383,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1110-delete-nodes-and-return-forest) |
 | [2236-root-equals-sum-of-children](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Topological Sort
 |  |
 | ------- |
