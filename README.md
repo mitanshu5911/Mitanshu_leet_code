@@ -45,6 +45,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0059-spiral-matrix-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0198-house-robber](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0387-first-unique-character-in-a-string) |
@@ -361,6 +363,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0101-symmetric-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -378,6 +381,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0101-symmetric-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -421,4 +425,5 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
