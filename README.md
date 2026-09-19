@@ -247,6 +247,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0100-same-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0210-course-schedule-ii) |
@@ -337,6 +338,7 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -368,6 +370,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0257-binary-tree-paths) |
@@ -387,6 +390,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0257-binary-tree-paths) |
@@ -408,6 +412,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## DP on Trees
 |  |
