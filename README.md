@@ -243,6 +243,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0110-balanced-binary-tree) |
@@ -335,6 +336,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -359,6 +361,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -377,6 +380,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
