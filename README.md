@@ -266,6 +266,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -286,6 +287,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0993-cousins-in-binary-tree) |
@@ -412,6 +414,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0700-search-in-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -446,6 +449,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0700-search-in-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -500,6 +504,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0700-search-in-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
