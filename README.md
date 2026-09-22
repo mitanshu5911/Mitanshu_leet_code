@@ -267,6 +267,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0637-average-of-levels-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0993-cousins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1110-delete-nodes-and-return-forest) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -285,6 +286,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0637-average-of-levels-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0993-cousins-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2685-count-the-number-of-complete-components) |
@@ -408,6 +410,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0701-insert-into-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1110-delete-nodes-and-return-forest) |
 | [2236-root-equals-sum-of-children](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2236-root-equals-sum-of-children) |
@@ -439,6 +442,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0701-insert-into-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1110-delete-nodes-and-return-forest) |
 | [2236-root-equals-sum-of-children](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2236-root-equals-sum-of-children) |
