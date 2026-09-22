@@ -233,6 +233,7 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0303-range-sum-query-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -371,6 +372,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -408,6 +410,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0637-average-of-levels-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0993-cousins-in-binary-tree) |
@@ -440,6 +443,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0637-average-of-levels-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0993-cousins-in-binary-tree) |
@@ -492,6 +496,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0501-find-mode-in-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
@@ -501,4 +506,8 @@ https://leetcode.com/u/mitanshubansal1234/
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0572-subtree-of-another-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
