@@ -259,6 +259,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0501-find-mode-in-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -389,6 +390,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0501-find-mode-in-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -418,6 +420,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0501-find-mode-in-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -472,4 +475,12 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0700-search-in-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
