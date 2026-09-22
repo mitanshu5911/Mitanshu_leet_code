@@ -258,6 +258,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0257-binary-tree-paths](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -277,6 +278,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0199-binary-tree-right-side-view](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0210-course-schedule-ii) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1971-find-if-path-exists-in-graph) |
@@ -391,6 +393,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0450-delete-node-in-a-bst](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0589-n-ary-tree-preorder-traversal) |
