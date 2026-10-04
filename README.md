@@ -163,6 +163,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1768-merge-strings-alternately](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -338,6 +339,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0412-fizz-buzz) |
+| [2390-removing-stars-from-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -370,6 +372,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
