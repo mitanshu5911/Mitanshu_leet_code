@@ -156,6 +156,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0516-longest-palindromic-subsequence](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -348,6 +349,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0011-container-with-most-water](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0605-can-place-flowers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -368,6 +370,7 @@ https://leetcode.com/u/mitanshubansal1234/
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -532,6 +535,7 @@ https://leetcode.com/u/mitanshubansal1234/
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mitanshu5911/Mitanshu_leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
